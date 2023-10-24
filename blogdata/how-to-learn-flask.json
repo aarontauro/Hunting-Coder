@@ -1,0 +1,6 @@
+{
+    "name": "How to learn Flask",
+    "content": "Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's BSD licensed!",
+    "author": "Aaron Tauro",
+    "slug": "how-to-learn-flask"
+}
